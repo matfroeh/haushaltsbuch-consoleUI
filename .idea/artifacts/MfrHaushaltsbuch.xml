@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MfrHaushaltsbuch">
+    <output-path>$PROJECT_DIR$/out/artifacts/MfrHaushaltsbuch</output-path>
+    <root id="archive" name="MfrHaushaltsbuch.jar" />
+  </artifact>
+</component>
